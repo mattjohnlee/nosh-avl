@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Nosh
+title: Nosh Bagel
 ---
