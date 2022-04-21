@@ -31,3 +31,4 @@ exclude:
   - README.md
   - bin
   - vendor
+theme: jekyll-theme-slate
