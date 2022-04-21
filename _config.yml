@@ -1,0 +1,33 @@
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# Site settings are accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "Nosh Bagel"
+# email: your-email@example.com
+description: "Hand-rolled naturally leavened bagels made in Asheville, NC"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+sass:
+  style: compressed
+  load_paths:
+    - _sass
+
+# plugins:
+#   - jekyll-feed
+
+# Exclude from processing.
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - README.md
+  - bin
+  - vendor

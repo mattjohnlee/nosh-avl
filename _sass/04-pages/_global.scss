@@ -1,0 +1,42 @@
+
+/* 
+////////////////////////////////////////////////////////////////////////////
+Styles not specific to any particular site page. Place things like "general" paragraph styles, heading styles, base list styles, etc. here.
+
+If you're calling the container mixin, you can define a custom max-width. Otherwise, the max-width's default value is 81.25em (1300px)
+
+.container {
+  @include container(70em);
+}
+////////////////////////////////////////////////////////////////////////////
+*/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 1em; /* change this for different breakpoints to make a responsive typographic scale */
+}
+
+body {
+  @include body-text;
+  color: $color-text;
+  background-color: $color-background;
+  position: relative;
+}
+
+::selection {
+  background: $color-selection-bg; 
+  color: $color-selection-text;
+}
+
+::-moz-selection { /* Firefox */
+  background: $color-selection-bg; 
+  color: $color-selection-text;
+}
+
+.container {
+  @include container;
+}
+
