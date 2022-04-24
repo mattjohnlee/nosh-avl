@@ -10,8 +10,9 @@
 }
 
 .logo-wordmark {
+	width: 90%;
 	max-width: 480px;
-	margin-bottom: $spacing-xl;
+	margin-bottom: $spacing-lg;
 	path {
 		stroke-width: 3px;
 		stroke: currentColor;
@@ -29,10 +30,15 @@
 	display: flex;
 	flex-wrap: wrap;
   justify-content: center;
-  padding: $spacing-lg 0 $spacing-lg $spacing-xs;
-  margin: $spacing-xxl 0;
+  padding: $spacing-md 0 $spacing-md $spacing-xs;
+  margin: $spacing-xl 0;
   border-top: 8px solid;
   border-bottom: 1px solid;
+
+  @include mq($l) {
+	  padding: $spacing-lg 0 $spacing-lg $spacing-xs;
+	  margin: $spacing-xxl 0;
+  }
 }
 
 .desc-item {
@@ -66,12 +72,16 @@
 	width: 100%;
 	display: flex;
 	justify-content: center;
+	margin: $spacing-lg 0 $spacing-md;
+
+  @include mq($l) {
+		margin: $spacing-xl 0 $spacing-lg;
+  }
 }
 
 .instagram-link {
 	width: 50%;
 	max-width: 200px;
-	margin: $spacing-xl 0 $spacing-lg;
 }
 
 .logo-icon {
