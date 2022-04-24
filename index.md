@@ -19,9 +19,5 @@ slug: home
 </ul>
 
 {% include svg/coming-soon.html class="coming-soon" %}
-<div class="instagram-container">
-	<a href="#" class="instagram-link">
-		{% include svg/instagram.html class="instagram" %}	
-	</a>
-</div>
+
 {% include svg/logo-icon.html class="logo-icon" %}

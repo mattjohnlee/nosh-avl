@@ -72,10 +72,10 @@
 	width: 100%;
 	display: flex;
 	justify-content: center;
-	margin: $spacing-lg 0 $spacing-md;
+	margin-top: $spacing-lg;
 
   @include mq($l) {
-		margin: $spacing-xl 0 $spacing-lg;
+		margin-top: $spacing-xl;
   }
 }
 
@@ -87,4 +87,9 @@
 .logo-icon {
 	width: 30%;
 	max-width: 70px;
+	margin-top: $spacing-md;
+
+  @include mq($l) {
+		margin-top: $spacing-lg;
+  }
 }
