@@ -1,8 +1,12 @@
 ---
 layout: default
 title: Nosh Bagel
+desc: Hand-rolled naturally leavened bagels made in Asheville, NC
 slug: home
 ---
+
+<h1 class="visually-hidden">{{ site.title }}</h1>
+<p class="visually-hidden">{{ site.description }}</p>
 
 {% include svg/logo-wordmark.html class="logo-wordmark" %}
 {% include svg/bagel-etc.html class="tagline" %}
