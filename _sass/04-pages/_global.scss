@@ -36,7 +36,6 @@ body {
   color: $color-selection-text;
 }
 
-.container {
-  @include container;
+.visually-hidden {
+  @extend %visuallyhidden;
 }
-

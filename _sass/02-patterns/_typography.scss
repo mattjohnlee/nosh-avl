@@ -61,15 +61,6 @@ ol {
   margin: 0 0 1em 1.5em;
 }
 
-.pullquote {
-  font-size: .75em;
-  font-weight: 200;
-  font-style: italic;
-  margin: 1em 2em;
-  padding: 0 2em;
-  border-left: 2px solid $color-border;
-}
-
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
@@ -85,24 +76,6 @@ strong, b {
 em, i {
   font-style: italic;
 }
-
-.font-bolditalic {
-  @include font-bolditalic;
-}
-
-.font-heading {
-  @include font-heading;
-}
-
-.font-headingitalic {
-  @include font-headingitalic;
-}
-
-.font-fallback {
-  @include font-fallback;
-}
-
-
 
 /* 
 ////////////////////////////////////////////////////////////////////////////

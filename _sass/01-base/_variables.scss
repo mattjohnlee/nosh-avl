@@ -19,6 +19,7 @@ $color-gray-f: #ffffff;
 
 $color-black: $color-gray-0;
 $color-white: $color-gray-f;
+$color-offwhite: #FFFBF2;
 $color-gray: $color-gray-5;
 
 
@@ -31,8 +32,8 @@ Color values -- primary
 $color-red: red;
 $color-orange: orange;
 $color-yellow: yellow;
-$color-green: green;
-$color-blue: blue;
+$color-green: #0AB495;
+$color-blue: #15C3C3;
 $color-indigo: indigo;
 $color-violet: violet;
 
@@ -42,9 +43,9 @@ Standard applications of color variables
 ////////////////////////////////////////////////////////////////////////////
 */
 
-$color-base: $color-black;
+$color-base: $color-green;
 
-$color-background: $color-white;
+$color-background: $color-offwhite;
 $color-background--tint: lighten($color-base, 50%);
 
 $color-text: $color-base;
@@ -54,8 +55,8 @@ $color-text--invert: $color-white;
 $color-heading: $color-text;
 $color-caption: $color-text--light;
 
-$color-link: $color-blue;
-$color-link--active: $color-green;
+$color-link: $color-base;
+$color-link--active: $color-base;
 
 $color-selection-bg: rgba($color-link,.2);
 $color-selection-text: $color-text;
@@ -128,7 +129,7 @@ $spacing-sm: .75rem;
 $spacing-md: 1rem;
 $spacing-lg: 1.5rem;
 $spacing-xl: 2rem;
-$spacing-xxl: 3rem;
+$spacing-xxl: 4rem;
 
 $spacing-section: $spacing-xl;
 $form-padding: $spacing-sm;

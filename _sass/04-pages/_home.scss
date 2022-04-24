@@ -1,0 +1,80 @@
+.main--home {
+	max-width: 90vw;
+	min-height: 100vh;
+	margin: auto;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+  justify-content: center;
+  padding: $spacing-xl 0;
+}
+
+.logo-wordmark {
+	max-width: 480px;
+	margin-bottom: $spacing-xl;
+	path {
+		stroke-width: 3px;
+		stroke: currentColor;
+	}
+}
+
+.tagline {
+	width: 60%;
+	max-width: 250px;
+}
+
+.desc {
+	@include ul-null;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+  justify-content: center;
+  padding: $spacing-lg 0 $spacing-lg $spacing-xs;
+  margin: $spacing-xxl 0;
+  border-top: 8px solid;
+  border-bottom: 1px solid;
+}
+
+.desc-item {
+	display: flex;
+	align-items: center;
+	margin-left: -#{$spacing-xs};
+	padding: $spacing-xxs 0;
+
+	&::after, &::before {
+		content: "";
+		width: $spacing-xs;
+		height: .1em;
+		background-color: $color-base;
+	}
+
+}
+
+.desc-item__svg {
+	height: $spacing-sm;
+	width: auto;
+	margin: 0 $spacing-md;
+}
+
+
+.coming-soon {
+	width: 90%;
+	max-width: 450px;
+}
+
+.instagram-container {
+	width: 100%;
+	display: flex;
+	justify-content: center;
+}
+
+.instagram-link {
+	width: 50%;
+	max-width: 200px;
+	margin: $spacing-xl 0 $spacing-lg;
+}
+
+.logo-icon {
+	width: 30%;
+	max-width: 70px;
+}
