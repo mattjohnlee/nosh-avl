@@ -13,10 +13,7 @@
 	width: 90%;
 	max-width: 480px;
 	margin-bottom: $spacing-lg;
-	path {
-		stroke-width: 3px;
-		stroke: currentColor;
-	}
+	filter: drop-shadow(0 0 8px currentColor);
 }
 
 .tagline {
@@ -88,6 +85,8 @@
 	width: 30%;
 	max-width: 70px;
 	margin-top: $spacing-md;
+	filter: drop-shadow(0 0 3px currentColor);
+
 
   @include mq($l) {
 		margin-top: $spacing-lg;

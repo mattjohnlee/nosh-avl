@@ -34,6 +34,8 @@ $color-orange: orange;
 $color-yellow: yellow;
 $color-green: #0AB495;
 $color-blue: #15C3C3;
+$color-blue-dark: #16182f;
+$color-blue-light: #10e9ff;
 $color-indigo: indigo;
 $color-violet: violet;
 
@@ -43,9 +45,9 @@ Standard applications of color variables
 ////////////////////////////////////////////////////////////////////////////
 */
 
-$color-base: $color-green;
+$color-base: $color-blue-light;
 
-$color-background: $color-offwhite;
+$color-background: $color-blue-dark;
 $color-background--tint: lighten($color-base, 50%);
 
 $color-text: $color-base;
