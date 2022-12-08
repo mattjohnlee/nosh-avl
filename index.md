@@ -9,15 +9,16 @@ slug: home
 <p class="visually-hidden">{{ site.description }}</p>
 
 {% include svg/logo-wordmark.html class="logo-wordmark" %}
-{% include svg/bagel-etc.html class="tagline" %}
+{% include svg/bagel-bialy.html class="tagline" %}
 
 <ul class="desc">
 	<li class="desc-item">{% include svg/schmears.html class="desc-item__svg" %}</li>
 	<li class="desc-item">{% include svg/sandwiches.html class="desc-item__svg" %}</li>
-	<li class="desc-item">{% include svg/hand-rolled.html class="desc-item__svg" %}</li>
+	<li class="desc-item">{% include svg/hand-shaped.html class="desc-item__svg" %}</li>
 	<li class="desc-item">{% include svg/naturally-leavened.html class="desc-item__svg" %}</li>
 </ul>
 
-{% include svg/coming-soon.html class="coming-soon" %}
+{% include svg/orders-inquiries.html class="orders-inquiries" %}
+<div><a href="mailto:hello@noshavl.com">{% include svg/email.html class="email" %}</a></div>
 
 {% include svg/logo-icon.html class="logo-icon" %}
