@@ -27,13 +27,13 @@
 	display: flex;
 	flex-wrap: wrap;
   justify-content: center;
-  padding: $spacing-md 0 $spacing-md $spacing-xs;
-  margin: $spacing-xl 0;
-  border-top: 8px solid;
-  border-bottom: 1px solid;
+  margin: $spacing-xl 0 0;
+  // padding: $spacing-md 0 $spacing-md $spacing-xs;
+  // border-top: 8px solid;
+  // border-bottom: 1px solid;
 
   @include mq($l) {
-	  padding: $spacing-lg 0 $spacing-lg $spacing-xs;
+	  // padding: $spacing-lg 0 $spacing-lg $spacing-xs;
 	  margin: $spacing-xxl 0;
   }
 }
@@ -81,7 +81,7 @@
 	max-width: 200px;
 }
 
-.orders-inquiries {
+.inquiries {
 	height: $spacing-sm;
 	width: auto;
 	margin: $spacing-md 0;
@@ -94,6 +94,17 @@
   @include mq($l) {
 	margin: $spacing-lg 0;
   }
+}
+
+.order-button {
+	width: 400px;
+	max-width: 70vw;
+	margin: $spacing-xxl 0;
+	transition: filter .2s linear;
+
+	&:hover, &:focus {
+		filter: drop-shadow(0 0 6px currentColor);
+	}
 }
 
 .email {

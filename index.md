@@ -12,13 +12,15 @@ slug: home
 {% include svg/bagel-bialy.html class="tagline" %}
 
 <ul class="desc">
-	<li class="desc-item">{% include svg/schmears.html class="desc-item__svg" %}</li>
-	<li class="desc-item">{% include svg/sandwiches.html class="desc-item__svg" %}</li>
+	<li class="desc-item">{% include svg/ny-style.html class="desc-item__svg" %}</li>
 	<li class="desc-item">{% include svg/hand-shaped.html class="desc-item__svg" %}</li>
 	<li class="desc-item">{% include svg/naturally-leavened.html class="desc-item__svg" %}</li>
 </ul>
 
-{% include svg/orders-inquiries.html class="orders-inquiries" %}
+<div><a href="https://forms.gle/7uDwEwhQhE67jZx37">{% include svg/order-button.html class="order-button" %}</a></div>
+
+{% include svg/inquiries.html class="inquiries" %}
+
 <div><a href="mailto:hello@noshavl.com">{% include svg/email.html class="email" %}</a></div>
 
 {% include svg/logo-icon.html class="logo-icon" %}
