@@ -83,8 +83,8 @@ Typographic variables
 
 $font-family-sans: Helvetica, Arial, sans-serif;
 $font-family-serif: Georgia, 'Times New Roman', serif;
-$font-family-display: $font-family-sans;
-$font-family-monospace: Courier, monospace;
+$font-family-monospace: 'Spot', Helvetica, monospace;
+$font-family-display: 'Trio', $font-family-monospace;
 
 $sans: $font-family-sans;
 $serif: $font-family-serif;

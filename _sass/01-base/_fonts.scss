@@ -4,4 +4,18 @@ Embed custom fonts here
 ////////////////////////////////////////////////////////////////////////////
 */
 
+@font-face {
+  font-family: "Spot";
+  font-style: normal;
+  font-weight: regular;
+  src: url("../assets/fonts/Spot-Mono-Regular.woff") format("woff");
+  font-display: swap;
+}
 
+@font-face {
+  font-family: "Trio";
+  font-style: normal;
+  font-weight: regular;
+  src: url("../assets/fonts/TrioGrotesk-Medium.woff2") format("woff2");
+  font-display: swap;
+}
