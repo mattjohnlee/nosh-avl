@@ -25,17 +25,12 @@
 	text-transform: uppercase;
 	width: 100%;
 	display: flex;
+	flex-direction: column;
 	flex-wrap: wrap;
+	gap: $spacing-sm;
   justify-content: center;
+  align-items: center;
   margin: $spacing-xl 0;
-  // padding: $spacing-md 0 $spacing-md $spacing-xs;
-  // border-top: 8px solid;
-  // border-bottom: 1px solid;
-
-  @include mq($l) {
-	  // padding: $spacing-lg 0 $spacing-lg $spacing-xs;
-	  margin: $spacing-xxl 0;
-  }
 }
 
 .desc-item {
@@ -45,10 +40,8 @@
 	text-align: center;
 	display: flex;
 	align-items: center;
-	margin-left: -#{$spacing-xs};
-	padding: $spacing-xxs $spacing-xxs;
 
-	&:first-child, &:last-child {
+  @include mq($m) {
 		&::after, &::before {
 			content: "";
 			width: $spacing-sm;
@@ -56,17 +49,12 @@
 			background-color: $color-base;
 			margin: 0 $spacing-sm;
 		}
-	}
+  }
 }
 
-.desc-item__svg {
-	height: $spacing-sm;
-	width: auto;
-	margin: 0 $spacing-md;
-}
-
-.update {
+.welcome {
 	max-width: 40rem;
+	text-align: left;
 
 	p {
 		font-size: 1.125rem;
@@ -75,7 +63,53 @@
 	strong {
 		@include font-heading;
 		text-transform: uppercase;
-		font-size: 1.125em;
+		font-size: 1.5rem;
+	}
+
+	a {
+		text-decoration: underline;
+		text-underline-offset: .25em;
+		text-decoration-thickness: 1px;
+		text-decoration-style: dotted;
+	}
+}
+
+.menu {
+	width: 100%;
+	max-width: 50rem;
+  margin: $spacing-lg 0;
+}
+
+.menu-item {
+	display: flex;
+	gap: $spacing-lg;
+	justify-content: space-between;
+	border-top: 1px dotted;
+	padding: $spacing-xs 0 $spacing-md;
+  
+  @include mq($m) {
+		padding: $spacing-xs 0 $spacing-lg;
+	}
+}
+
+.menu-item__name {
+	@include font-heading;
+	text-transform: uppercase;
+	font-size: 1.125rem;
+  @include mq(0, $m) {
+		max-width: 50vw;
+	}
+}
+
+.menu-item__price {
+	text-align: right;
+	display: flex;
+	flex-direction: column;
+  @include mq(0, $m) {
+		gap: $spacing-xxs;
+	}
+
+	span {
 	}
 }
 
@@ -113,7 +147,7 @@
 }
 
 .instagram-container {
-	margin: $spacing-xl 0;
+	margin: $spacing-xxl 0 $spacing-lg;
 }
 
 .inquiries {
@@ -122,10 +156,10 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: $spacing-sm;
+	gap: $spacing-xs;
 
   @include mq($l) {
-	margin: $spacing-lg 0;
+	margin: $spacing-xl 0;
   }
 }
 
@@ -162,6 +196,6 @@
 
 
   @include mq($l) {
-		margin-top: $spacing-xxl;
+		margin-top: $spacing-xl;
   }
 }
