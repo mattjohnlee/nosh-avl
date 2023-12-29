@@ -12,7 +12,7 @@
 	width: 90%;
 	max-width: 480px;
 	margin-bottom: $spacing-lg;
-	filter: drop-shadow(0 0 8px currentColor);
+	filter: $shadow-blurple;
 }
 
 .tagline {
@@ -142,7 +142,7 @@
 
 	&:hover, &:focus {
 		text-decoration: none;
-		filter: drop-shadow(0 0 6px currentColor);
+		filter: $shadow-blurple;
 	}
 }
 
@@ -183,7 +183,7 @@
 
 	&:hover, &:focus {
 		text-decoration: none;
-		filter: drop-shadow(0 0 6px currentColor);
+		filter: $shadow-blurple;
 	}
 }
 
@@ -192,7 +192,7 @@
 	width: 30%;
 	max-width: 70px;
 	margin-top: $spacing-xxl;
-	filter: drop-shadow(0 0 3px currentColor);
+	filter: $shadow-blurple;
 
 
   @include mq($l) {
