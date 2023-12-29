@@ -22,6 +22,7 @@ $color-white: $color-gray-f;
 $color-offwhite: #FFFBF2;
 $color-gray: $color-gray-5;
 
+$color-loxschmear: #fff7f5;
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
@@ -29,15 +30,19 @@ Color values -- primary
 ////////////////////////////////////////////////////////////////////////////
 */
 
-$color-red: red;
+$color-red: #d93e05;
 $color-orange: orange;
-$color-yellow: yellow;
-$color-green: #0AB495;
+$color-yellow: #f8fa5d;
+$color-green: #0ab4a7;
 $color-blue: #15C3C3;
 $color-blue-dark: #16182f;
 $color-blue-light: #10e9ff;
 $color-indigo: indigo;
 $color-violet: violet;
+
+$color-salmon: #FFB8AE;
+$color-forest: #004F45;
+$color-blurple: #002ddd;
 
 /* 
 ////////////////////////////////////////////////////////////////////////////
@@ -45,9 +50,9 @@ Standard applications of color variables
 ////////////////////////////////////////////////////////////////////////////
 */
 
-$color-base: $color-blue-light;
+$color-base: $color-blurple;
 
-$color-background: $color-blue-dark;
+$color-background: $color-loxschmear;
 $color-background--tint: lighten($color-base, 50%);
 
 $color-text: $color-base;
@@ -60,7 +65,7 @@ $color-caption: $color-text--light;
 $color-link: $color-base;
 $color-link--active: $color-base;
 
-$color-selection-bg: rgba($color-link,.2);
+$color-selection-bg: $color-yellow;
 $color-selection-text: $color-text;
 
 $color-error: $color-red;
@@ -179,3 +184,4 @@ $zIndex-9: 900;
 $zIndex-10: 1000;
 
 
+$shadow-blurple: drop-shadow(0 0 5px rgba(0, 66, 221, 0.25));
