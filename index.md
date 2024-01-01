@@ -13,6 +13,7 @@ slug: home
 
 <ul class="desc">
 	<li class="desc-item">Hand&nbsp;shaped &amp; Fresh&nbsp;baked</li>
+	<li class="desc-item">Naturally leavened</li>
 	<li class="desc-item">Made with love &amp; local&nbsp;ingredients</li>
 </ul>
 
