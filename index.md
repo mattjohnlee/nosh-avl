@@ -18,7 +18,9 @@ slug: home
 </ul>
 
 <div class="welcome">
-	<p><strong>Welcome!</strong> We are a micro bakery in Asheville, NC offering small batch bagels, bialys and other nostalgic baked goods. We currently take orders by request only and for pick up in North Asheville. Take a glance at our offerings and <a href="mailto:hello@noshavl.com">send us a note</a> to place an order. We can’t wait to bake you something to nosh on.</p>
+	<p><strong>Welcome!</strong> We are a micro bakery in Asheville, NC offering small batch bagels, bialys, and more, all made using locally milled organic flours. </p>
+	<p>Our bagels are long-fermented for loads of flavor, then boiled in malt syrup, and finally baked to a perfect balance of outer crust and chewy interior.</p>
+	<p>We currently take orders by request for pick up in North Asheville. Take a glance at our offerings and <a href="mailto:hello@noshavl.com">send us a note</a> to place an order. We can’t wait to bake you something to nosh on.</p>
 </div>
 
 <ul class="menu">
