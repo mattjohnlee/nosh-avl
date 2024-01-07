@@ -19,12 +19,12 @@ slug: home
 
 <section class="body">
 	<div class="intro">
-		<p>We are a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
-		<p>Nosh puts the “small” in “small business.” We’re currently a home-based operation that bakes to order several times a week, and while we don’t have our own storefront, your orders can be picked up at various locations in North Asheville.</p>
+		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
+		<p>Nosh puts the “small” in “small business.” We’re currently a home-based operation that bakes to order several times a week, and while we don’t have our own storefront, we coordinate pickups at various locations in North Asheville.</p>
 		<p>We’re actively working to scale up capacity, provide more pickup dates/locations, and eventually expand into popups and other offerings. In the meantime, we’re grateful for your patience as we grow our business — we can’t wait to bake you something to nosh on!</p>
 	</div>
 	<div class="order-info">
-		<h2 class="subhead">Order details</h2>
+		<h2 class="subhead">How it works</h2>
 		<ul>
 			<li>Nosh currently bakes on Tuesday, Thursday, and Friday, with pickup available in North Asheville later that same morning.</li>
 			<li>Please order at least 2–3 days in advance, as the quantity we’re able to bake on each morning is limited and capacity sells out quickly.</li>
