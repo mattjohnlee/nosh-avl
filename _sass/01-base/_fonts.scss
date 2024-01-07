@@ -15,7 +15,15 @@ Embed custom fonts here
 @font-face {
   font-family: "Trio";
   font-style: normal;
-  font-weight: regular;
+  font-weight: bold;
   src: url("../assets/fonts/TrioGrotesk-Medium.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Trio";
+  font-style: normal;
+  font-weight: regular;
+  src: url("../assets/fonts/TrioGrotesk-Regular.woff2") format("woff2");
   font-display: swap;
 }

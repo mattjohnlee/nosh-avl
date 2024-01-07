@@ -17,11 +17,23 @@ slug: home
 	<li class="desc-item">Made with love &amp; local&nbsp;ingredients</li>
 </ul>
 
-<div class="welcome">
-	<p><strong>Welcome!</strong> We are a micro bakery in Asheville, NC offering small batch bagels, bialys, and more, all made using locally milled organic flours. </p>
-	<p>Our bagels are long-fermented for loads of flavor, then boiled in malt syrup, and finally baked to a perfect balance of outer crust and chewy interior.</p>
-	<p>We currently take orders by request for pick up in North Asheville. Take a glance at our offerings and <a href="mailto:hello@noshavl.com">send us a note</a> to place an order. We can’t wait to bake you something to nosh on.</p>
-</div>
+<section class="body">
+	<div class="intro">
+		<p>We are a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
+		<p>Nosh puts the “small” in “small business.” We’re currently a home-based operation that bakes to order several times a week, and while we don’t have our own storefront, your orders can be picked up at various locations in North Asheville.</p>
+		<p>We’re actively working to scale up capacity, provide more pickup dates/locations, and eventually expand into popups and other offerings. In the meantime, we’re grateful for your patience as we grow our business — we can’t wait to bake you something to nosh on!</p>
+	</div>
+	<div class="order-info">
+		<h2 class="subhead">Order details</h2>
+		<ul>
+			<li>Nosh currently bakes on Tuesday, Thursday, and Friday, with pickup available in North Asheville later that same morning.</li>
+			<li>Please order at least 2–3 days in advance, as the quantity we’re able to bake on each morning is limited and capacity sells out quickly.</li>
+			<li>Place your order by following the link below our menu and filling out the form. You’ll receive an email from us with an order confirmation and pickup details.</li>
+			<li>We accept payment via Venmo or cash.</li>
+			<li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li>
+		</ul>
+	</div>
+</section>
 
 <ul class="menu">
 	<li class="menu-item">
@@ -51,10 +63,10 @@ slug: home
 </ul>
 
 <div class="inquiries">
-	<span class="inquiries__intro">Place your order</span>
-	<a class="inquiries__email" href="mailto:hello@noshavl.com">hello@noshavl.com</a>
+	<div class=""><a href="#" class="button-link">Place your order</a></div>
+	<!-- <a class="inquiries__email" href="mailto:hello@noshavl.com">hello@noshavl.com</a> -->
 </div>
 
-<div class="instagram-container"><a href="https://instagram.com/nosh_avl" class="button-link">Nosh_AVL on Instagram</a></div>
+<div class="instagram-container"><a href="https://instagram.com/nosh_avl" class="">Nosh on Instagram</a></div>
 
 <!-- {% include svg/logo-icon.html class="logo-icon" %} -->

@@ -28,7 +28,7 @@ Basic font style mixins
 
 @mixin font-heading { 
   font-family: $display;
-  font-weight: $font-weight-light;
+  font-weight: $font-weight-bold;
 }
 
 @mixin font-headingitalic { 
