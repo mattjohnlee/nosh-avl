@@ -28,9 +28,9 @@ slug: home
 		<ul>
 			<li>Nosh currently bakes on Tuesday, Thursday, and Friday, with pickup available in North Asheville later that same morning.</li>
 			<li>Please order at least 2–3 days in advance, as the quantity we’re able to bake on each morning is limited and capacity sells out quickly.</li>
-			<li>Once you place your order, you’ll receive an email from us with an order confirmation and pickup details.</li>
+			<li>Place your order by following the link below our menu and filling out the form. You’ll receive an email from us with an order confirmation and pickup details.</li>
 			<li>We accept payment via Venmo or cash.</li>
-			<!-- <li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li> -->
+			<li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li>
 		</ul>
 	</div>
 </section>
@@ -63,7 +63,7 @@ slug: home
 </ul>
 
 <div class="inquiries">
-	<div class=""><a a href="mailto:hello@noshavl.com" class="button-link">Place your order</a></div>
+	<div class=""><a href="#" class="button-link">Place your order</a></div>
 	<!-- <a class="inquiries__email" href="mailto:hello@noshavl.com">hello@noshavl.com</a> -->
 </div>
 
