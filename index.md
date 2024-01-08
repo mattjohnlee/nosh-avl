@@ -63,7 +63,7 @@ slug: home
 </ul>
 
 <div class="inquiries">
-	<div class=""><a href="#" class="button-link">Place your order</a></div>
+	<div class=""><a href="https://forms.gle/53U64t9PwwEXment6" class="button-link">Place your order</a></div>
 	<!-- <a class="inquiries__email" href="mailto:hello@noshavl.com">hello@noshavl.com</a> -->
 </div>
 
