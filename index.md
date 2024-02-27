@@ -21,7 +21,7 @@ slug: home
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
 		<p>Nosh puts the “small” in “small business.” While we don’t have our own storefront, we take pre-orders online twice a week for pickups at different locations around Asheville. We also appear at farmers markets and host pop-ups together with other local food businesses.</p>
-		<p>Our next pop-up event will be at <a href="https://newstockpantry.com/" target="_blank">Newstock Pantry</a> (191 Lyman St.) on Sunday, March 24 from 11am-2pm. We’ll also be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> on Wednesdays, March 6 and 20.</p>
+		<p>Our next pop-up event will be at <a href="https://newstockpantry.com/" target="_blank">Newstock Pantry</a> (191 Lyman St.) on Sunday, March 24 from 11am-2pm. We’ll also be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> on Wednesdays, March 6 and 20 from 3–6pm.</p>
 		<p>We’re working to scale up capacity, provide more pickup dates and locations, offer more pop-up events, and eventually expand into other offerings. In the meantime, we’re grateful for your patience as we grow our business — we can’t wait to bake you something to nosh on!</p>
 	</div>
 	<div class="order-info">
