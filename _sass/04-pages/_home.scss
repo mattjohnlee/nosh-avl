@@ -103,7 +103,7 @@
 .menu {
 	width: 100%;
 	max-width: 50rem;
-  margin: $spacing-xl 0;
+  margin: $spacing-lg 0;
 }
 
 .menu-item {
@@ -149,6 +149,7 @@
 	padding: $spacing-sm $spacing-lg;
 	border-radius: 2rem;
 	position: relative;
+	margin-bottom: $spacing-xl;
 
   @include mq($l) {
 		font-size: $font-size-h3;
@@ -185,7 +186,6 @@
 
 .inquiries {
 	height: $spacing-sm;
-	margin: $spacing-md 0;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
