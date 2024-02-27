@@ -12,7 +12,6 @@
 	width: 90%;
 	max-width: 450px;
 	margin-bottom: $spacing-lg;
-	filter: $shadow-blurple;
 }
 
 .tagline {
@@ -175,7 +174,7 @@
 }
 
 .instagram-container {
-	margin: $spacing-xxl 0 $spacing-lg;
+	padding: 0 0 $spacing-xl;
 	a {
 		text-decoration: underline;
 		text-underline-offset: .25em;
@@ -190,10 +189,10 @@
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	gap: $spacing-xs;
+	gap: $spacing-lg;
 
   @include mq($l) {
-	// margin: $spacing-xl 0;
+		gap: $spacing-xl;
   }
 }
 
@@ -217,7 +216,6 @@
 
 	&:hover, &:focus {
 		text-decoration: none;
-		filter: $shadow-blurple;
 	}
 }
 
@@ -226,7 +224,6 @@
 	width: 30%;
 	max-width: 70px;
 	margin-top: $spacing-xxl;
-	filter: $shadow-blurple;
 
 
   @include mq($l) {

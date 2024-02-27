@@ -65,9 +65,15 @@ slug: home
 
 <div class="inquiries">
 	<div class=""><a href="https://forms.gle/53U64t9PwwEXment6" class="button-link">Place your order</a></div>
-	<!-- <a class="inquiries__email" href="mailto:hello@noshavl.com">hello@noshavl.com</a> -->
+	<div>
+		<form action="https://squareup.com/outreach/HyuVEy/subscribe" method="POST" target="_blank" style="display:flex; gap:0; max-width: 80vw; width:50rem">
+			<input type="email" name="email_address" placeholder="Want email updates?" style="height: 48px; padding: 0 20px; background:transparent; color:002ddd; font-size: 14px; border: 1px solid #002ddd; border-top-left-radius: 8px; border-bottom-left-radius: 8px; font-family: Spot, Helvetica, monospace; flex-grow:1"><input type="hidden" name="embed" value="true">
+			<button type="submit" style="cursor: pointer; background-color: #002ddd; color: white; height: 48px; border: 0; border-top-right-radius: 8px; border-bottom-right-radius: 8px; font-size: 14px; padding: 0 20px; font-family: Spot, Helvetica, monospace; text-transform:uppercase; font-weight: 600; flex-shrink:0">Sign up</button>
+		</form>
+	</div>
+	<div class="instagram-container"><a href="https://instagram.com/nosh_avl" class="">Nosh on Instagram</a></div>
 </div>
 
-<div class="instagram-container"><a href="https://instagram.com/nosh_avl" class="">Nosh on Instagram</a></div>
+
 
 <!-- {% include svg/logo-icon.html class="logo-icon" %} -->
