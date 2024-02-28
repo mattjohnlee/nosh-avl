@@ -30,7 +30,7 @@ slug: home
 			<li>Nosh currently bakes to order on Thursdays and Fridays, with pickup available at various locations in Asheville later that same morning.</li>
 			<li>Please order at least 2–3 days in advance, as the quantity we’re able to bake on each morning is limited and capacity sells out quickly.</li>
 			<li>Place your order by following the link below our menu and filling out the form. You’ll receive an email from us with an order confirmation and pickup details.</li>
-			<li>We accept payment via Venmo or cash.</li>
+			<li>We accept payment via credit card, Venmo, or cash at the time of pickup.</li>
 			<li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li>
 		</ul>
 	</div>
