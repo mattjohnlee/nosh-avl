@@ -20,15 +20,17 @@ slug: home
 <section class="body">
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
-		<p>Nosh puts the “small” in “small business.” While we don’t have our own storefront, we take pre-orders online twice a week for pickups at different locations around Asheville. We also appear at farmers markets and host pop-ups together with other local food businesses.</p>
+		<p>Nosh puts the “small” in “small business.” While we don’t have our own storefront, we take pre-orders online and offer pickup at locations in North Asheville and the River Arts District. We also appear at farmers markets and host pop-ups together with other local food businesses.</p>
 		<p>Our next pop-up event will be at <a href="https://newstockpantry.com/" target="_blank">Newstock Pantry</a> (191 Lyman St.) on Sunday, March 24 from 11am-2pm. We’ll also be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> on Wednesdays, March 6 and 20 from 3–6pm.</p>
 		<p>We’re working to scale up capacity, provide more pickup dates and locations, offer more pop-up events, and eventually expand into other offerings. In the meantime, we’re grateful for your patience as we grow our business — we can’t wait to bake you something to nosh on!</p>
 	</div>
 	<div class="order-info">
 		<h2 class="subhead">How it works</h2>
 		<ul>
-			<li>Nosh currently bakes to order on Thursdays and Fridays, with pickup available at various locations in Asheville later that same morning.</li>
-			<li>Please order at least 2–3 days in advance, as the quantity we’re able to bake on each morning is limited and capacity sells out quickly.</li>
+			<li>Nosh currently bakes to order on Thursday and Friday mornings.</li>
+			<li>Thursday orders can be picked up at <a href="https://maps.app.goo.gl/Yg85ztYRQEEig4JH8" target="_blank">Mother Ocean Seafood Market</a>, while Friday orders can be picked up at <a href="https://maps.app.goo.gl/vg985bE1wKAFJcks8" target="_blank">Newstock Pantry</a>.</li>
+			<li>The pickup time for both locations is 11am—12pm. If this timeframe doesn’t work for you, please make a note in the order form and we will do our best to accommodate.</li>
+			<li>Order at least 2–3 days in advance, as the quantity we’re able to bake each morning is limited and capacity sells out quickly.</li>
 			<li>Place your order by following the link below our menu and filling out the form. You’ll receive an email from us with an order confirmation and pickup details.</li>
 			<li>We accept payment via credit card, Venmo, or cash at the time of pickup.</li>
 			<li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li>
