@@ -28,15 +28,17 @@ slug: home
 		<h2 class="subhead">How it works</h2>
 		<ul>
 			<li>Nosh currently bakes to order on Thursday and Friday mornings.</li>
-			<li>Thursday orders can be picked up at <a href="https://maps.app.goo.gl/Yg85ztYRQEEig4JH8" target="_blank">Mother Ocean Seafood Market</a>, while Friday orders can be picked up at <a href="https://maps.app.goo.gl/vg985bE1wKAFJcks8" target="_blank">Newstock Pantry</a>.</li>
-			<li>The pickup time for both locations is 11am—12pm. If this timeframe doesn’t work for you, please make a note in the order form and we will do our best to accommodate.</li>
+			<li>Thursday orders can be picked up at <a href="https://maps.app.goo.gl/Yg85ztYRQEEig4JH8" target="_blank">Mother Ocean Seafood Market</a>, while Friday orders can be picked up at <a href="https://maps.app.goo.gl/vg985bE1wKAFJcks8" target="_blank">Newstock Pantry</a>. Pickups are between 11am—12pm.</li>
 			<li>Order at least 2–3 days in advance, as the quantity we’re able to bake each morning is limited and capacity sells out quickly.</li>
-			<li>Place your order by following the link below our menu and filling out the form. You’ll receive an email from us with an order confirmation and pickup details.</li>
-			<li>We accept payment via credit card, Venmo, or cash at the time of pickup.</li>
+			<li>We now take  <a href="https://noshavl.square.site/" target="_blank">orders and payment online</a>, but if you’d prefer to pay via cash or Venmo at the time of pickup, just <a href="mailto:hello@noshavl.com">let us know</a>.</li>
 			<li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li>
 		</ul>
 	</div>
 </section>
+
+<div class="order-button">
+	<a href="https://noshavl.square.site/" target="_blank" class="button-link">Place your order</a>
+</div>
 
 <ul class="menu">
 	<li class="menu-item">
@@ -66,13 +68,10 @@ slug: home
 </ul>
 
 <div class="inquiries">
-	<div class=""><a href="https://forms.gle/53U64t9PwwEXment6" class="button-link">Place your order</a></div>
-	<div>
-		<form action="https://squareup.com/outreach/HyuVEy/subscribe" method="POST" target="_blank" style="display:flex; gap:0; max-width: 80vw; width:50rem">
-			<input type="email" name="email_address" placeholder="Want email updates?" style="height: 48px; padding: 0 20px; background:transparent; color:002ddd; font-size: 14px; border: 1px solid #002ddd; border-top-left-radius: 8px; border-bottom-left-radius: 8px; font-family: Spot, Helvetica, monospace; flex-grow:1"><input type="hidden" name="embed" value="true">
-			<button type="submit" style="cursor: pointer; background-color: #002ddd; color: white; height: 48px; border: 0; border-top-right-radius: 8px; border-bottom-right-radius: 8px; font-size: 14px; padding: 0 20px; font-family: Spot, Helvetica, monospace; text-transform:uppercase; font-weight: 600; flex-shrink:0">Sign up</button>
-		</form>
-	</div>
+	<form action="https://squareup.com/outreach/HyuVEy/subscribe" method="POST" target="_blank" style="display:flex; gap:0; max-width: 80vw; width:50rem">
+		<input type="email" name="email_address" placeholder="Want email updates?" style="height: 48px; padding: 0 20px; background:transparent; color:002ddd; font-size: 14px; border: 1px solid #002ddd; border-top-left-radius: 8px; border-bottom-left-radius: 8px; font-family: Spot, Helvetica, monospace; flex-grow:1"><input type="hidden" name="embed" value="true">
+		<button type="submit" style="cursor: pointer; background-color: #002ddd; color: white; height: 48px; border: 0; border-top-right-radius: 8px; border-bottom-right-radius: 8px; font-size: 14px; padding: 0 20px; font-family: Spot, Helvetica, monospace; text-transform:uppercase; font-weight: 600; flex-shrink:0">Sign up!</button>
+	</form>
 	<div class="instagram-container"><a href="https://instagram.com/nosh_avl" class="">Nosh on Instagram</a></div>
 </div>
 

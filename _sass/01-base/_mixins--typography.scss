@@ -60,7 +60,6 @@ Block-level typographic elements
 
 @mixin body-text {
   @include font-regular;
-  color: $color-text;
   font-size: $font-size-base; 
   line-height: $line-height-base;
 
@@ -71,7 +70,6 @@ Block-level typographic elements
 
 @mixin heading-text {
   @include font-heading;
-  color: $color-heading;
   line-height: $line-height-heading;
   margin: $font-margin--heading-text;
 

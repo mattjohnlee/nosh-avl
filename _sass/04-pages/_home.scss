@@ -53,12 +53,12 @@
 
 .body {
 	max-width: 80rem;
+	margin: 0 0 $spacing-lg 0;
 	display: flex;
 	gap: $spacing-lg;
 	flex-direction: column;
 
   @include mq($l) {
-		margin: $spacing-lg 0;
 		flex-direction: row;
 		gap: 4vw;
 	}
@@ -150,6 +150,7 @@
 	border-radius: 2rem;
 	position: relative;
 	margin-bottom: $spacing-xl;
+	@include animate-fast;
 
   @include mq($l) {
 		font-size: $font-size-h3;
@@ -170,7 +171,9 @@
 
 	&:hover, &:focus {
 		text-decoration: none;
-		filter: $shadow-blurple;
+		background-color: $color-base;
+		color: $color-background;
+		transform: scale(1);
 	}
 }
 
