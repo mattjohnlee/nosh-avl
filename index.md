@@ -37,8 +37,7 @@ slug: home
 </section>
 
 <div class="order-button">
-	<span class="button-link">April order dates coming soon</span>
-	<!-- <a href="https://noshavl.square.site/" target="_blank" class="button-link">Place your order</a> -->
+	<a href="https://noshavl.square.site/" target="_blank" class="button-link">Place your order</a>
 </div>
 
 <ul class="menu">
