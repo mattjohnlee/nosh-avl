@@ -20,9 +20,9 @@ slug: home
 <section class="body">
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
-		<p>Nosh puts the “small” in “small business.” While we don’t have our own storefront, we take pre-orders online and offer pickup at locations in North Asheville and the River Arts District. We also appear at farmers markets and host pop-ups together with other local food businesses.</p>
-		<p>We’ll be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> every other Wednesday this spring (April 3 &amp; 17, and May 1, 15, &amp; 29). Our next pop-up is still TBD, but we have something exciting in the works, so stay tuned!</p>
-		<p>We’re grateful for your patience as we grow our business — we can’t wait to bake you something to nosh on!</p>
+		<p>Nosh puts the “small” in “small business.” While we don’t have our own storefront, we take pre-orders online and offer pickup at locations in North Asheville and the River Arts District.</p>
+		<p>We’ll also be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> every other Wednesday this spring (April 3 &amp; 17, May 15 &amp; 29).</p>
+		<p>Please check back for updates and future events — we can’t wait to bake you something to nosh on!</p>
 	</div>
 	<div class="order-info">
 		<h2 class="subhead">How it works</h2>
@@ -30,7 +30,6 @@ slug: home
 			<li>Nosh currently bakes to order on Thursday and Friday mornings.</li>
 			<li>Thursday orders can be picked up at <a href="https://maps.app.goo.gl/Yg85ztYRQEEig4JH8" target="_blank">Mother Ocean Seafood Market</a>, while Friday orders can be picked up at <a href="https://maps.app.goo.gl/vg985bE1wKAFJcks8" target="_blank">Newstock Pantry</a>. Pickups are between 11am—12pm.</li>
 			<li>Order at least 2–3 days in advance, as the quantity we’re able to bake each morning is limited and capacity sells out quickly.</li>
-			<li>We now take  <a href="https://noshavl.square.site/" target="_blank">orders and payment online</a>, but if you’d prefer to pay via cash or Venmo at the time of pickup, just <a href="mailto:hello@noshavl.com">let us know</a>.</li>
 			<li>For custom orders or other inquiries, please send us a note at <a href="mailto:hello@noshavl.com">hello@noshavl.com</a>.</li>
 		</ul>
 	</div>
