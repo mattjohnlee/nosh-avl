@@ -21,7 +21,7 @@ slug: home
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
 		<p>Nosh puts the “small” in “small business.” While we don’t have our own storefront, we take pre-orders online and offer pickup at locations in North Asheville and the River Arts District.</p>
-		<p>We’ll also be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> on select Wednesdays this spring (April 3 &amp; 17, May 15 &amp; 29).</p>
+		<p>We’ll also be at the <a href="https://weavervillemarket.com/" tareget="_blank">Weaverville Tailgate Market</a> on select Wednesdays this spring: April 3 &amp; 17, May 15 &amp; 29, and June 12 &amp; 26.</p>
 		<p>Please check back for updates and future events — we can’t wait to bake you something to nosh on!</p>
 	</div>
 	<div class="order-info">
