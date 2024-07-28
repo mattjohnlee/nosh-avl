@@ -42,7 +42,7 @@ slug: home
 	<li class="menu-item">
 	  <span class="menu-item__name">Bagels</span>	
 	  <span class="menu-item__price">
-	  	<span>plain, everything, sesame, or poppyseed</span>
+	  	<span>plain, everything, sesame, poppyseed, salt &amp; pepper</span>
   		<span>six for $13</span>
   		<span>baker’s dozen for $26</span>
   	</span>	
