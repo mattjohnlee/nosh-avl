@@ -1,5 +1,28 @@
-header {
-	ul, ol { //clear styling from nav-based lists
-		@include ul-null;
+.site-header {
+	background-color: $color-base;
+	color: $color-background;
+	padding:  $spacing-sm 5vw;
+	margin-bottom: $spacing-md;
+	text-align: center;
+
+	p {
+		margin-bottom: 0;
 	}
+
+	a {
+		text-decoration: underline;
+		text-underline-offset: .25em;
+		text-decoration-thickness: 1px;
+		text-decoration-style: dotted;
+		color: $color-background;
+	
+	  @include mq($xs) {
+			white-space: nowrap;
+		}
+
+		&:hover, &:focus {
+			color: $color-background;
+		}
+	}
+
 }
