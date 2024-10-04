@@ -34,9 +34,9 @@ slug: home
 	</div>
 </section>
 
-<div class="order-button">
+<!-- <div class="order-button">
 	<a href="https://noshavl.square.site/" target="_blank" class="button-link">Place your order</a>
-</div>
+</div> -->
 
 <ul class="menu">
 	<li class="menu-item">
