@@ -53,6 +53,8 @@
 
 .body {
 	max-width: 80rem;
+	max-width: 60rem;
+	text-wrap: pretty;
 	margin: 0 0 $spacing-lg 0;
 	display: flex;
 	gap: $spacing-lg;
