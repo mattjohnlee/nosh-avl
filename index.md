@@ -20,7 +20,7 @@ slug: home
 <section class="body">
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
-		<p>Like many folks in Asheville, we lost some momentum after Hurricane Helene and are still figuring out the best path forward. However, we’ll soon be once again offering pre-orders for a pickup hosted by our dear friends at <a href="https://new-stock.square.site/bagel-pickup" target="_blank">New Stock Pantry</a>. Stay tuned for more info!</p>
+		<p>Like many folks in Asheville, we lost some momentum after Hurricane Helene and are still figuring out the best path forward. However, we’re thrilled to announce that we’re once again offering pre-orders for a pickup hosted by our dear friends at <a href="https://new-stock.square.site/bagel-pickup" target="_blank">New Stock Pantry</a> on Saturday, March 1st.</p>
 		<p>In the meantime, if you’ve ever been curious to try making some of our goods at home, you can join one of Emily’s classes at <a href="https://www.theashevillekitchen.com/emilys-class-page" target="_blank">The Asheville Kitchen</a>. We have dates on the calendar throughout February and March where you can learn our methods for making bagels, bialys, challah, babka, and even a good ol’ sourdough loaf!</p>
 	</div>
 <!-- 	<div class="order-info">
