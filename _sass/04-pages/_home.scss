@@ -132,6 +132,7 @@
 .menu-item__price {
 	text-align: right;
 	display: flex;
+	text-wrap: balance;
 	flex-direction: column;
   @include mq(0, $m) {
 		gap: $spacing-xxs;

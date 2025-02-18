@@ -20,7 +20,7 @@ slug: home
 <section class="body">
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
-		<p>Like many folks in Asheville, we lost some momentum after Hurricane Helene and are still figuring out the best path forward. However, we’ll soon be once again offering pre-orders for a pickup hosted by our dear friends at <a href="https://new-stock.square.site/" target="_blank">Newstock Pantry</a>. Stay tuned for more info!</p>
+		<p>Like many folks in Asheville, we lost some momentum after Hurricane Helene and are still figuring out the best path forward. However, we’ll soon be once again offering pre-orders for a pickup hosted by our dear friends at <a href="https://new-stock.square.site/bagel-pickup" target="_blank">New Stock Pantry</a>. Stay tuned for more info!</p>
 		<p>In the meantime, if you’ve ever been curious to try making some of our goods at home, you can join one of Emily’s classes at <a href="https://www.theashevillekitchen.com/emilys-class-page" target="_blank">The Asheville Kitchen</a>. We have dates on the calendar throughout February and March where you can learn our methods for making bagels, bialys, challah, babka, and even a good ol’ sourdough loaf!</p>
 	</div>
 <!-- 	<div class="order-info">
@@ -42,26 +42,14 @@ slug: home
 	<li class="menu-item">
 	  <span class="menu-item__name">Bagels</span>	
 	  <span class="menu-item__price">
-	  	<span>plain, everything, sesame, poppyseed, salt &amp; pepper</span>
-  		<span>six for $13</span>
-  		<span>baker’s dozen for $26</span>
+	  	<span>plain, sea salt, poppyseed, sesame, everything, cinnamon raisin, cacio e pepe (pecorino + cracked black pepper)</span>
+  		<span>individual $3</span>
+  		<span>six for $14</span>
   	</span>	
 	</li>
 	<li class="menu-item">
 	  <span class="menu-item__name">Caramelized onion bialys</span>	
-	  <span class="menu-item__price">three for $8</span>	
-	</li>
-	<li class="menu-item">
-	  <span class="menu-item__name">Braided challah</span>	
-	  <span class="menu-item__price">$7</span>	
-	</li>
-	<li class="menu-item">
-	  <span class="menu-item__name">Chocolate babka</span>	
-	  <span class="menu-item__price">$15</span>	
-	</li>
-	<li class="menu-item">
-	  <span class="menu-item__name">Salted chocolate chip tahini cookies</span>	
-	  <span class="menu-item__price">three for $5</span>	
+	  <span class="menu-item__price">three for $9</span>	
 	</li>
 </ul>
 
