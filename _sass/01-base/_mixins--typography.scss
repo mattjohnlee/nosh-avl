@@ -70,6 +70,7 @@ Block-level typographic elements
 
 @mixin heading-text {
   @include font-heading;
+  text-transform: uppercase;
   line-height: $line-height-heading;
   margin: $font-margin--heading-text;
 
@@ -85,7 +86,10 @@ Block-level typographic elements
 
 @mixin heading-2 {
   @include heading-text;
-  font-size: $font-size-h2; 
+  font-size: $font-size-h3; 
+  @include mq($l) {
+    font-size: $font-size-h2; 
+  }
 }
 
 @mixin heading-3 {
