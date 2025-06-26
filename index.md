@@ -21,8 +21,9 @@ slug: home
 	<div class="intro">
 		<p>Nosh is a micro bakery in Asheville, NC offering small-batch bagels, bialys, and more, all made using locally milled organic flours. Our bagels are long-fermented for loads of flavor, boiled in barley malt syrup, and baked to a perfect balance of outer crust and chewy interior.</p>
 		<h2>First Saturday pick-ups</h2>
-		<p>We’re thrilled to offer First Saturday pick-ups, hosted by our dear friends at New Stock Pantry.</p>
-		<p>Pre-order your bagels and bialys on <a href="https://new-stock.square.site/" target="_blank">New Stock’s website</a> (along with their homemade schmears and house-cured fish, of course!), then pick up your order between 10am–1pm on the first Saturday of each month at their production kitchen at <a href="https://maps.app.goo.gl/1XyjLnRGmxHhcTeC8" target="_blank">148 Weaverville Road</a> in Woodfin.</p>
+		<p>We’re thrilled to offer First Saturday pick-ups, hosted by our dear friends at New Stock Kitchen.</p>
+		<p>Pre-order your bagels and bialys on <a href="https://new-stock.square.site/" target="_blank">New Stock’s website</a> (along with their homemade schmears and house-cured fish, of course!), then pick up your order between 10am–1pm on the first Saturday of each month* at their production kitchen at <a href="https://maps.app.goo.gl/1XyjLnRGmxHhcTeC8" target="_blank">148 Weaverville Road</a> in Woodfin.</p>
+		<p class="small">* Except for July, no one puts a hot dog on a bagel.</p>
 		<h2>Baking classes</h2>
 		<p>If you’ve ever been curious to try making some of our goods at home, you can join one of Emily’s classes at <a href="https://www.theashevillekitchen.com/emilys-class-page" target="_blank">The Asheville Kitchen</a>. We have dates on the calendar throughout May and June where you can learn our methods for making bagels, bialys, challah, babka, and even a good ol’ sourdough loaf!</p>
 	</div>
