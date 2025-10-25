@@ -36,9 +36,8 @@ slug: home
 	<li class="menu-item">
 	  <span class="menu-item__name">Bagels</span>	
 	  <span class="menu-item__price">
-	  	<span>plain, sea salt, pumpernickel, cinnamon raisin, poppyseed, sesame, everything, salt & cracked pepper</span>
-  		<span>individual $3</span>
   		<span>six for $14</span>
+	  	<span>plain, sea salt, poppyseed, sesame, everything, pumpkin, cinnamon raisin</span>
   	</span>	
 	</li>
 	<li class="menu-item">
