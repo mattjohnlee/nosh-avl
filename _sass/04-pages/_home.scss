@@ -1,17 +1,21 @@
 .main--home {
 	max-width: 90vw;
+	min-height: 100vh;
 	margin: auto;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-  justify-content: center;
-  padding: $spacing-xl 0;
+	justify-content: center;
+	padding: $spacing-xl 0;
 }
 
 .logo-wordmark {
 	width: 90%;
-	max-width: 450px;
+	max-width: 500px;
 	margin-bottom: $spacing-lg;
+	filter: drop-shadow(0 0 8px currentColor);
+	animation: flicker 2s linear 2;
+	opacity: .25;
 }
 
 .tagline {

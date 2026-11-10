@@ -50,9 +50,9 @@ Standard applications of color variables
 ////////////////////////////////////////////////////////////////////////////
 */
 
-$color-base: $color-blurple;
+$color-base: $color-blue-light;
 
-$color-background: $color-loxschmear;
+$color-background: $color-blue-dark;
 $color-background--tint: lighten($color-base, 50%);
 
 $color-text: $color-base;
